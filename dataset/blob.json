@@ -1,0 +1,19 @@
+{
+	"name": "blob",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStorage1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "gittoblob",
+				"folderPath": "gitdf",
+				"container": "blob"
+			}
+		}
+	}
+}
