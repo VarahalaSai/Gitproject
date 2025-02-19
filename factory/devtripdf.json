@@ -1,0 +1,9 @@
+{
+	"name": "devtripdf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "10d60dc5-1f97-4a24-89b0-a4ff2e16a8dd",
+		"tenantId": "651a4cce-f5dc-40c2-b2de-130af64fa41e"
+	}
+}
